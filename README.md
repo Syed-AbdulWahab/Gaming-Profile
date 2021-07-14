@@ -1,2 +1,2 @@
 # Gaming-Profile
-https://syed-abdulwahab.github.io/WahabCalculator/
+https://syed-abdulwahab.github.io/Gaming-Portfolio/
